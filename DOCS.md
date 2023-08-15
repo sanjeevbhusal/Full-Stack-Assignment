@@ -37,4 +37,4 @@ pip install requirements.txt
 python manage.py runserver
 ```
 
-`Note: Creating and Activation of Virtual Environment might be different in Macos and Windows. The above commands works on Linux.`
+**Note: Creating and Activation of Virtual Environment might be different in Macos and Windows. The above commands works on Linux.**
